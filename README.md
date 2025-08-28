@@ -30,7 +30,7 @@ Power BI, DAX, Power Query (M), Data Modeling, World Bank Open Data APIs
 ## See More
 - Portfolio/Blog: https://www.datatipss.com/blog  
 - Contact: https://www.datatipss.com/contact  
-- GitHub repository (dashboards & code): _add repo link here_  
+- GitHub repository (dashboards & code): https://github.com/jamilqpr/worldbank-powerbi-dashboards
 - Upwork: https://www.upwork.com/freelancers/jamilahmad
 
 If you’d like a **custom dashboard** for your organization (country/sector-specific KPIs, data automation, or stakeholder-ready storytelling), let’s connect!
