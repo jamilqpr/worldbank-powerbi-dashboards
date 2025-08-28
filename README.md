@@ -3,7 +3,14 @@
 
 I’ve built a series of **Power BI dashboards** using **World Bank Open Data** to visualize global trends across **economy, education, health, and sustainability**. These dashboards are designed for **clarity, speed, and business insight**.
 
+# World Bank Power BI Dashboards
+
+Here is a preview of the dashboard:
+
+![Dashboard Preview](Screenshot%202025-08-28%20235414.png)
+
 ## What’s Inside
+
 - **Global GDP**: Year-over-year growth, regional comparisons
 - **Poverty & Inequality**: Headcount ratios, income distribution
 - **Education**: Enrollment, literacy, spending
