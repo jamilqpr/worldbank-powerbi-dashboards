@@ -1,5 +1,5 @@
 
-# 🌍 World Bank Power BI Dashboards — Portfolio
+# 🌍 World Bank Power BI Dashboards
 
 I’ve built a series of **Power BI dashboards** using **World Bank Open Data** to visualize global trends across **economy, education, health, and sustainability**. These dashboards are designed for **clarity, speed, and business insight**.
 
